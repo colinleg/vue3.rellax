@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+![alt image de presentation](https://github.com/colinleg/Parallax-with-Rellax.js-Vue3CLI/blob/master/preview-parallax.png)
