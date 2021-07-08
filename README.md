@@ -29,9 +29,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Import 
 
-```diff
+````diff
 @@import Rellax from 'rellax'
-```
+````
 
 # Fonctionnement 
 <template>
