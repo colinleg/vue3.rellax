@@ -35,6 +35,8 @@ import Rellax from 'rellax'
 ```
 
 # Fonctionnement 
+
+```html
 <template>
   <div class="home">
 
@@ -44,6 +46,4 @@ import Rellax from 'rellax'
     <div class="img4 rellax">sdvsd</div>
   </div>
 </template>
-
-![alt text](https://github.com/colinleg/Parallax-with-Rellax.js-Vue3CLI/blob/master/code-paralax-preview.png)
-
+```
