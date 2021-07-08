@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # Import 
 
 ```
-import Rellax from 'rellax'
+@@import -Rellax @@from !'rellax'
 
 ```
 
