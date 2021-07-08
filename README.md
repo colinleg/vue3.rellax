@@ -23,11 +23,18 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-Etat du projet le 8 juillet 2021 :
+# Etat du projet le 8 juillet 2021 :
 
 ![alt image de presentation](https://github.com/colinleg/Parallax-with-Rellax.js-Vue3CLI/blob/master/preview-parallax.png)
 
+# Import 
 
+```
+import Rellax from 'rellax'
+
+```
+
+# Fonctionnement 
 <template>
   <div class="home">
 
