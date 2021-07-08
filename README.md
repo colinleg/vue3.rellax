@@ -15,10 +15,6 @@ yarn serve
 yarn build
 ```
 
-### Etat du projet le 8 juillet 2021 :
-
-![alt image de presentation](https://github.com/colinleg/Parallax-with-Rellax.js-Vue3CLI/blob/master/preview-parallax.png)
-
 ## Import 
 
 ```js
