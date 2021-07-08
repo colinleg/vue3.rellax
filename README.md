@@ -30,7 +30,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # Import 
 
 ````diff
-@@import Rellax from 'rellax'
+-import Rellax from 'rellax'
+Hi here is some text <span style="color: red">this is red</span>.
 ````
 
 # Fonctionnement 
