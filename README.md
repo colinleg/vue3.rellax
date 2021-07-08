@@ -1,40 +1,32 @@
-# relax-paralax
+# Parallax-with-Rellax.js-Vue3CLI
 
-## Project setup
+## Installer le projet
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compiler pour le développement
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compiler pour la production
 ```
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# Etat du projet le 8 juillet 2021 :
+### Etat du projet le 8 juillet 2021 :
 
 ![alt image de presentation](https://github.com/colinleg/Parallax-with-Rellax.js-Vue3CLI/blob/master/preview-parallax.png)
 
-# Import 
+## Import 
 
 ```js
 import Rellax from 'rellax'
 
 ```
 
-# Fonctionnement 
+## Fonctionnement 
 
 ```html
 <template>
