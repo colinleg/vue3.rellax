@@ -1,15 +1,9 @@
 <template>
   <div class="home">
-    <!-- <p class="rellax"  data-rellax-speed="7">Para 1</p>
 
-    <div class="rellax" data-rellax-speed="-6">
-       I parallax at all different speeds depending on your screen width.
-    </div>
-
-    <p class="rellax"  data-rellax-speed="15">Para </p> -->
     <div class="img1 rellax" data-rellax-speed="-6">sv</div>
     <div class="img2 rellax" data-rellax-speed="7">">vsdv</div>
-    <div class="img3 rellax">sdvsd</div>
+    <div class="img3 rellax" data-rellax-speed="3">sdvsd</div>
     <div class="img4 rellax">sdvsd</div>
   </div>
 
