@@ -37,3 +37,6 @@ Etat du projet le 8 juillet 2021 :
     <div class="img4 rellax">sdvsd</div>
   </div>
 </template>
+
+![alt text](https://github.com/colinleg/Parallax-with-Rellax.js-Vue3CLI/blob/master/preview-parallax.png)
+
