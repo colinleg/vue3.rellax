@@ -38,5 +38,5 @@ Etat du projet le 8 juillet 2021 :
   </div>
 </template>
 
-![alt text](https://github.com/colinleg/Parallax-with-Rellax.js-Vue3CLI/blob/master/preview-parallax.png)
+![alt text](https://github.com/colinleg/Parallax-with-Rellax.js-Vue3CLI/blob/master/code-paralax-preview.png)
 
