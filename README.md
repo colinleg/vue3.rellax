@@ -29,7 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Import 
 
-```
+```diff
 @@import -Rellax @@from !'rellax'
 
 ```
